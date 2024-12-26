@@ -1,4 +1,7 @@
 title: OKAJIMA AOKI Portfolio
 theme: minima
 
+header_pages:
+  - index.md
+
 footer_text: "Copyright © 2024 Okajima Aoki All Rights Reserved."
