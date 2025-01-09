@@ -277,6 +277,11 @@ img {
   margin-bottom: 30px;
 }
 
+.profile-body ul {
+  list-style-type: disc; /* 箇条書きの種類 */
+  margin-left: 20px; /* 左側の余白 */
+}
+
 /*--------------------------------
  Contact
 ---------------------------------*/
