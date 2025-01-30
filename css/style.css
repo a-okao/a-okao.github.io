@@ -382,6 +382,11 @@ img {
   text-align: center;
 }
 
+.article-body ul {
+  list-style-type: disc; /* 箇条書きの種類 */
+  margin-left: 18px; /* 左側の余白 */
+}
+
 /*media Queries 767
 ----------------------------------------------------*/
 @media screen and (max-width: 767px) {
